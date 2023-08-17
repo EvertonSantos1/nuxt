@@ -4,6 +4,7 @@
        
       <v-app-bar
         color="teal-darken-3"
+        height="200"
         image="https://picsum.photos/1920/1080?random"
         
         
