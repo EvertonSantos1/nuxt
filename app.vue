@@ -5,7 +5,7 @@
       <v-app-bar
         color="teal-darken-3"
         image="https://picsum.photos/1920/1080?random"
-        elevation="900"
+        
         
       >
 
